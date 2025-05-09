@@ -10,7 +10,7 @@ body {
 }
 
 p {
-color: white;
+color: black;
 }
 
 .white {
@@ -39,7 +39,7 @@ button {
 }
 
 .largeimg {
-    width: 200px;
+    width: 300px;
 }
 
 .center {
@@ -66,13 +66,50 @@ button {
     display: flex
 }
 
+#navbard {
+    display: flex
+}
+
+#navbarc {
+    display: flex;
+    justify-content:
+}
+
+#navbare {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #8B400E;    
+}
+
 .unbold {
     font-weight: normal;
 }
 
 #container {
-    display: flex
+    display: flex;
+    justify-content: center;
 }
+
+#containerb {
+    display: flex;
+    justify-content: center;
+
+}
+
+.imgmar{
+    margin: 25px;
+  }
+
+h3{
+    margin-right: 100px;
+    margin-left: 30px;
+  }
+
+  .food{
+    margin-right: 100px;
+    margin-left: 50px;
+  }
 
 #box {
     display: flex;
@@ -81,6 +118,7 @@ button {
     background-color: #FFFFE0;
     border: 3px solid black;
     padding: 10px;
+
     
   }
 
@@ -109,11 +147,8 @@ button {
   }
 
   p {
-    margin-left: 50px
-  }
-
-  p {
-    margin-right: 50px
+    margin-left: 50px;
+    margin-right: 50px;
   }
 
   .marginl {
