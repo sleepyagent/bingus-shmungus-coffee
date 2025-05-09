@@ -1,0 +1,143 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: #FFFFE0;
+}
+
+.fontbig {
+    font-size: x-large;
+    text-decoration: none;
+}
+
+p {
+color: white;
+}
+
+.white {
+    color: white;
+    }
+
+.sleepvio {
+   color: violet 
+}
+
+hr {
+    color: white
+}
+
+.hr2 {
+    color:black
+}
+
+button {
+    height: 120px;
+    width: 200px;  
+}
+
+.smallimg {
+    width: 50px;
+}
+
+.largeimg {
+    width: 200px;
+}
+
+.center {
+    text-align: center;
+}
+
+.linkcolor {
+    color: rgb(82, 7, 82)
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #8B400E;    
+}
+
+#navbara {
+    display: flex;
+    justify-content: flex-start;
+}
+
+#navbarb {
+    display: flex
+}
+
+.unbold {
+    font-weight: normal;
+}
+
+#container {
+    display: flex
+}
+
+#box {
+    display: flex;
+    justify-content: center;
+    width: 140px;
+    background-color: #FFFFE0;
+    border: 3px solid black;
+    padding: 10px;
+    
+  }
+
+  #box2 {
+    display: flex;
+    justify-content: flex-start;
+    width: 350px;
+    background-color: #FFFFE0;
+    border: 3px solid black;
+    padding: 10px;
+    
+  }
+
+  #box3 {
+    display: flex;
+    justify-content: flex-start;
+    width: 516px;
+    background-color: #FFFFE0;
+    border: 3px solid black;
+    padding: 10px;
+
+  }
+
+  .linkcolor {
+    color: #ff3c2a
+  }
+
+  p {
+    margin-left: 50px
+  }
+
+  p {
+    margin-right: 50px
+  }
+
+  .marginl {
+    margin-left: 50px
+  }
+
+  .marginr {
+    margin-right: 50px
+  }
+
+.margint {
+  margin-top: 35px
+}
+
+h2 {
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    display: flex;
+    border-bottom: 1px solid black;
+}
+    
+.black {
+    color: black;
+}
